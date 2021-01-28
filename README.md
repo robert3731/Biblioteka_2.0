@@ -1,4 +1,5 @@
 #Biblioteka 2.0
+
 API for online library containing authors,books and related functions.
 
 Documentation with functions can be found in `documentation.html`
