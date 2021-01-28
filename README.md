@@ -1,10 +1,10 @@
-#Biblioteka 2.0
+# Biblioteka 2.0
 
 API for online library containing authors,books and related functions.
 
 Documentation with functions can be found in `documentation.html`
 
-##Setup
+## Setup
 
 - Clone repository
 - Create virtual environment
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 flask run
 ```
 
-##Technologies / Tools
+## Technologies / Tools
 - Python 3.8.0
 - Flask 1.1.2
 - SQLAlchemy 1.1.22
